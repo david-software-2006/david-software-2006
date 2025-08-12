@@ -24,7 +24,7 @@
 
 ## 💻 Lenguajes y Tecnologías que manejo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,tailwind,dotnet,mysql,postgres,csharp,react&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,tailwind,dotnet,mysql,postgres,cs,react&theme=light" />
 </p>
 
 ---
