@@ -22,6 +22,13 @@
 
 ---
 
+## 💻 Lenguajes y Tecnologías que manejo
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,tailwind,dotnet,mysql,postgres,csharp,react&theme=light" />
+</p>
+
+---
+
 ## 🎨 Lo que me motiva
 💡 Crear cosas que no existían antes.  
 🌱 Aprender algo nuevo todos los días.  
